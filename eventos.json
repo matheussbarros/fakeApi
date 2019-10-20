@@ -1,0 +1,41 @@
+[
+  {
+    "capacidadeInicio": 0,
+    "capacidadeMax": 25,
+    "categoria": "Decoração",
+    "dataFim": "30/10",
+    "dataInicio": "22/10",
+    "descricao": "Tanta gente pediu, a gente se virou por aqui, e voltamos com nosso workshop de pintura, na prática! Você enjoou da cor da parede do quarto mas não consegue achar nenhuma pintur ponta firme?...",
+    "gratuito": true,
+    "imagem": "https://raw.githubusercontent.com/matheussbarros/images-deschateie/master/img-evento-pintura.png",
+    "latitude": -23.5590196,
+    "longitude": -46.6753407,
+    "nome": "Workshop de Pintura, na Prática"
+  },
+  {
+    "capacidadeInicio": 0,
+    "capacidadeMax": 25,
+    "categoria": "Musical",
+    "dataFim": "10/12",
+    "dataInicio": "10/11",
+    "descricao": "Um grupo de teatro viajante, perdido pelo interior do Brasil, tenta sobreviver encenando as histórias fantásticas, as fugas incríveis, os perigos assombrosos e os encontros extraordinários do famoso Barão de Munchausen.",
+    "gratuito": true,
+    "imagem": "https://raw.githubusercontent.com/matheussbarros/images-deschateie/master/img-evento-musical.png",
+    "latitude": -23.5637893,
+    "longitude": -46.6555155,
+    "nome": "A Verdadeira História do Barão"
+  },
+  {
+    "capacidadeInicio": 0,
+    "capacidadeMax": 32,
+    "categoria": "Comédia",
+    "dataFim": "30/11",
+    "dataInicio": "15/11",
+    "descricao": "Os humoristas se revezam com convidados especiais todas as sextas-feiras, de forma que, cada espetáculo traz atrações diferentes. As esquetes continuam a retratar situações comuns do cotidiano, além de trazer para o palco situações de destaque na atualidade.",
+    "gratuito": true,
+    "imagem": "https://raw.githubusercontent.com/matheussbarros/images-deschateie/master/img-evento-comedia.png",
+    "latitude": -23.5588693,
+    "longitude": -46.6636665,
+    "nome": "Comédia ao Vivo"
+  }
+]
